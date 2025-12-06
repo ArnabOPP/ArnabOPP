@@ -6,7 +6,9 @@
 
 ###
 
-<p align="left">Student of CSE AI-ML at IEM SALTLAKE | Postman API fundamental student expert Winner | ex-Intern at ScalerSchoolofTechnology</p>
+<p align="left">Hi !! 
+I am Arnab, a B. Tech undergraduate in Computer Science Engineering in Artificial intelligence and Machine Learning at Institute of Engineering & Management, Saltlake, Pursuing My Passion for Programming. Postman API fundamental student expert Winner | ex-Intern at ScalerSchoolofTechnology
+ </p>
 
 ###
 
@@ -43,9 +45,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ArnabOPP/ArnabOPP/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ArnabOPP&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
