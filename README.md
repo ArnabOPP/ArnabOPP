@@ -302,4 +302,3 @@ An intelligent processing and hardware modeling project developed for physical o
 > **— Arnab Chatterjee**
 
 </div>
-
