@@ -36,11 +36,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arnab_Chattterjee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnab-chatterjee-prsnl/)
 [![Email](https://img.shields.io/badge/Email-arnabchatterjee281205%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnabchatterjee281205@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-ArnabOPP-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArnabOPP)
-[![ENGImitra](https://img.shields.io/badge/ENGImitra-Founder,CTO_&_CEO-00F7FF?style=for-the-badge&logo=openai&logoColor=black)](https://engimitra.in)
+[![ENGImitra](https://img.shields.io/badge/ENGImitra-Founder,CTO_&_CEO-00008B?style=for-the-badge&logo=openai&logoColor=black)](https://engimitra.in)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ArnabOPP&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS)
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ArnabOPP.ArnabOPP&"  />
+</div>
 
 </div>
 
