@@ -57,7 +57,7 @@ I'm an **AI Developer**, **Full Stack Engineer**, and **Founder** with a deep pa
 Currently building **ENGImitra** — a next-generation AI systems and products company.
 
 ```python
-class Debangshu:
+class Arnab:
     name       = "Arnab Chatterjee"
     role       = ["AI Engineer", "ML Engineer", "Full Stack Dev", "IoT Builder", "Founder @ ENGImitra"]
     languages  = ["Python", "JavaScript", "C++", "SQL"]
