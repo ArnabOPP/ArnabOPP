@@ -48,14 +48,14 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHNvcXB2bWhhc2c3enU5dXdhc3BsdHg3am01NmMxMTl5YW44enE1dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="250" alt="Coding GIF"/>
+
 
 ## 🧑‍💻 About Me
 
 > *"Research-driven AI, built with a startup mindset."*
 
-I'm an **AI Developer**, **Full Stack Engineer**, and **Founder** with a deep passion for **research-driven intelligent systems**, **autonomous AI agents**, and **real-world IoT applications**. I build things that matter — from sensors to scalable cloud systems, from data pipelines to user-facing products.
-
+I'm an **AI Developer**, **Full Stack Engineer**, and **Founder** with a deep passion for **research-driven intelligent systems**, **autonomous AI agents**, and **real-world IoT applications**. I build things that matter — from sensors to scalable cloud systems, from data pipelines to user-facing products.<br>
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHNvcXB2bWhhc2c3enU5dXdhc3BsdHg3am01NmMxMTl5YW44enE1dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="250" alt="Coding GIF"/>
 Currently building **ENGImitra** — a next-generation AI systems and products company.
 
 ```python
