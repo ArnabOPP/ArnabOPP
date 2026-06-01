@@ -1,5 +1,5 @@
 <!-- ============================================================
-     ARNAB CHATTERJEE — GitHub Profile README hi
+     ARNAB CHATTERJEE — GitHub Profile README wow
      ============================================================ -->
 
 <div align="center">
@@ -302,4 +302,3 @@ An intelligent processing and hardware modeling project developed for physical o
 > **— Arnab Chatterjee**
 
 </div>
-
