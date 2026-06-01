@@ -1,5 +1,5 @@
 <!-- ============================================================
-     ARNAB CHATTERJEE — GitHub Profile README wow
+     ARNAB CHATTERJEE — GitHub Profile README 
      ============================================================ -->
 
 <div align="center">
