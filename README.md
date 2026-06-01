@@ -1,5 +1,5 @@
 <!-- ============================================================
-     ARNAB CHATTERJEE — GitHub Profile README hello
+     ARNAB CHATTERJEE — GitHub Profile README
      ============================================================ -->
 
 <div align="center">
